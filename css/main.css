@@ -1,0 +1,28 @@
+
+#fizzbuzz-form {
+    text-align: center;
+    margin-top: 25px;
+    /*position: relative;
+    top: 50px;*/
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.num {
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.error-message {
+    width: 30%;
+    margin: 0 auto;
+    display: none;
+}
+
+.red-border {
+    border: 2px solid red;
+}
